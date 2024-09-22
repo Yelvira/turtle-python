@@ -54,7 +54,7 @@ def draw_U(x, y):
     for pos in positions_u:
         point(*pos)
 
-# Draw 'TÚ'
+# Draw 'Vane❤️'
 draw_T(-27, -20)
 draw_U(7, -20)
 
